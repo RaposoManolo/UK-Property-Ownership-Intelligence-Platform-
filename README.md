@@ -25,3 +25,6 @@ Business-ready analytical datasets are created in Gold.
 | Raw Data Ingestion | In Progress |
 | Silver Transformations | Planned |
 | Gold Analytics Layer | Planned |
+
+<img width="1280" height="720" alt="Architecture" src="https://github.com/user-attachments/assets/73bdf9c9-826c-4daa-ab22-f2ce97957b80" />
+
